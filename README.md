@@ -22,7 +22,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+You can try this file out with the commands in irb
+
+Run examples
+
+Building.find(2)
+Building.all
+Building.create({...})
+
 
 ## Development
 
